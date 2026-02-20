@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Moves Like Jagger ft. Christina Aguilera (Official Music Video)",
+  "base_artist": "Maroon 5",
+  "createdAt": "2026-02-20T11:58:30.583829Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (ft. Christina Aguilera)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/01_Moves_Like_Jagger_(ft._Christina_Aguilera)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (ft. Christina Aguilera)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/02_Moves_Like_Jagger_(ft._Christina_Aguilera)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moves Like Jagger (ft. Christina Aguilera)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/03_Moves_Like_Jagger_(ft._Christina_Aguilera)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moves Like Jagger ft. Christina Aguilera",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/04_Moves_Like_Jagger_ft._Christina_Aguilera_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moves Like Jagger ft. Christina Aguilera (Explicit)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/05_Moves_Like_Jagger_ft._Christina_Aguilera_(Explicit)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Official Music Video)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/06_Maroon_5_-_Moves_Like_Jagger_ft._Christina_Aguilera_(Official_Music_Video)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Moves Like Jagger ft. Christina Aguilera (Official Music Video)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/07_Moves_Like_Jagger_ft._Christina_Aguilera_(Official_Music_Video)_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maroon 5 - Moves Like Jagger ft. Christina Aguilera (Band Edit) (Official Music Video)",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/08_Maroon_5_-_Moves_Like_Jagger_ft._Christina_Aguilera_(Band_Edit)_(Official_Music__Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Maroon 5 - Moves Like Jagger (Ft. Christina Aguilera & Mac Miller) (Remix) [Prod. Benny Blanco]",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/09_Maroon_5_-_Moves_Like_Jagger_(Ft._Christina_Aguilera_&_Mac_Miller)_(Remix)_[Prod_Mac_Miller.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moves Like Jagger feat. Christina Aguilera",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/pl_01_Moves_Like_Jagger_feat._Christina_Aguilera_Maroon_5.txt"
+    }
+  ]
+}
